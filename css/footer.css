@@ -1,0 +1,38 @@
+
+@media only screen and (max-width: 1370px){
+
+#border_1{
+	width: 100%; height: 10px; background-color: black;
+}
+#footer{
+	width: auto; height: 350px; background: rgba(40,41,35,0.9);
+}
+#footer_info{
+	width: 50%; height: 250px; float: left;
+}
+#footer_logo img{
+	padding-left: 25px; height: 90px;
+}
+#social{
+	width: 100%; height: auto;
+}
+#social img{
+	width: 8%; height: 8%;
+}
+#footer_menu{
+	width: 50%; height: 250px; float: left;
+}
+#border_2{
+	width: 100%; height: 5px; background-color: red;
+}
+#border_3{
+	width: 100%; height: 30px; padding-bottom: 20px; background-color: black;
+}
+#copyright{
+	width: 70%; float: left; padding-left: 10px;
+}
+#our_footer_name{
+	width: 25%; float: right;
+}
+}
+
